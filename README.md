@@ -1,7 +1,4 @@
 # Pic Search Engine
-
----
-
 A search engine utilizing Unsplash API to return images.
 This was built with React.
 
